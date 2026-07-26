@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋! This is Faruk Hossain. A Backend Web Developer.</h2>
-<h4 align="left">Mail me on "faruktt143@gmail.com"</h4>
+<h2 align="left">Hi 👋! This is Mainul Islam. A Front-End Developer.</h2>
+<h4 align="left">Mail me on "mainul105467@gmail.com"</h4>
 
 ###
 
