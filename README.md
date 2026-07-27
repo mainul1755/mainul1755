@@ -1,10 +1,15 @@
 <h2 align="left">Hi 👋! This is Mainul Islam. A Front-End Developer.</h2>
-<h4 align="left">Mail me on <a href="mainul105467@gmail.com">mainul105467@gmail.com</a></h4>
+<h4 align="left">Mail me on <a href="mainul105467@gmail.com" tergat="_blank">mainul105467@gmail.com</a></h4>
 
 ###
 
 <img align="right" height="250" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"  />
 
+###
+<!-- <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiulbehindyou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div> -->
 ###
 
 <h4 align="left">The toys I use</h4>
