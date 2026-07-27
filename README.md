@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! This is Mainul Islam. A Front-End Developer.</h2>
-<h4 align="left">Mail me on <a href="mailto:mainul105467@gmail.com">mainul105467@gmail.com</a></h4>
+<h4 align="left">Mail me on <a href="mainul105467@gmail.com">mainul105467@gmail.com</a></h4>
 
 ###
 
